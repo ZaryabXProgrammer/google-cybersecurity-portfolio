@@ -1,0 +1,5 @@
+## Professional Statement
+
+Software Engineer transitioning into cybersecurity, with experience in software development, MERN stack projects, and the banking sector. Currently building practical cybersecurity knowledge through the Google Cybersecurity Certificate, with a focus on security operations, threat detection, risk assessment, and incident response.
+
+I aim to combine my software engineering background and understanding of technology-driven business environments with cybersecurity best practices to help identify vulnerabilities, strengthen security controls, and protect systems and sensitive data. I am committed to continuous learning and developing hands-on skills through practical labs, security documentation, and cybersecurity projects.
